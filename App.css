@@ -1,0 +1,49 @@
+.app{
+  text-align: center;
+}
+.box{
+  height: 300px;
+  width: 1400px;
+  background-color: black;
+}
+#heading{
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 100px;
+}
+#subtitle{
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 120px;
+}
+.card{
+  width: 250px;
+  height: 300px;
+  margin: 50px;
+  text-align: center;
+}
+.product-list{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.footer{
+  height: 100px;
+  width: 1400px;
+  background-color: black;
+}
+.footerbox{
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+
+
+
+
+
+
